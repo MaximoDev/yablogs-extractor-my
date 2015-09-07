@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:yablogs="urn:yandex-blogs" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <link>//blogs.yandex.ru/search.xml?text=%28%22%D0%BD%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%22+%7C+%D1%81%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D1%8C%29+%26+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%BC%D0%B0%D1%82&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+    <title>("не работает" | сломать) &amp; паркомат за период с 01.04.2015 по .. — Яндекс.Поиск по блогам</title>
+    <image>
+      <url>http://img.yandex.net/i/logo100x43.png</url>
+      <title>Поиск Яндекса по блогам</title>
+      <link>//blogs.yandex.ru/search.xml?text=%28%22%D0%BD%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%22+%7C+%D1%81%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D1%8C%29+%26+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%BC%D0%B0%D1%82&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+      <width>100</width>
+      <height>43</height>
+    </image>
+    <ttl>60</ttl>
+    <generator>blogs.yandex.ru</generator>
+    <webMaster>support@blogs.yandex.ru</webMaster>
+    <copyright>noindex</copyright>
+    <description>Результаты поиска Яндекса по блогам и форумам по запросу: «("не работает" | сломать) &amp; паркомат» за период с 01.04.2015 по ..</description>
+    <yablogs:count>3</yablogs:count>
+    <item>
+      <title>...когда будут ездить без номеров и все паркоматы сломают...</title>
+      <pubDate>Fri, 21 Aug 2015 12:23:04 GMT</pubDate>
+      <guid>http://proboknet.livejournal.com/617604.html?thread=43557252</guid>
+      <link>http://proboknet.livejournal.com/617604.html?thread=43557252</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fproboknet.livejournal.com%2F617604.html%3Fthread%3D43557252&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://proboknet.livejournal.com/">proboknet</yablogs:journal>
+      <yablogs:is-comment/>
+      <description>Никто и &lt;b&gt;не&lt;/b&gt; плачет.</description>
+    </item>
+    <item>
+      <author>http://o-ba2.livejournal.com/</author>
+      <yablogs:author url="http://o-ba2.livejournal.com/">o_ba2</yablogs:author>
+      <title>а почему же ни один паркомат не работает? Вы как-то утрируете....</title>
+      <pubDate>Mon, 04 May 2015 07:19:05 GMT</pubDate>
+      <guid>http://prosto-vova.livejournal.com/2880810.html?thread=74670378</guid>
+      <link>http://prosto-vova.livejournal.com/2880810.html?thread=74670378</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fprosto-vova.livejournal.com%2F2880810.html%3Fthread%3D74670378&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://prosto-vova.livejournal.com/">prosto_vova</yablogs:journal>
+      <yablogs:is-comment/>
+      <description>а почему же ни один &lt;b&gt;паркомат&lt;/b&gt; &lt;b&gt;не&lt;/b&gt; &lt;b&gt;работает&lt;/b&gt;? Вы как-то утрируете. Я паркуюсь, плачу в &lt;b&gt;паркомате&lt;/b&gt;, как и положено.</description>
+    </item>
+    <item>
+      <author>http://prosto-vova.livejournal.com/</author>
+      <yablogs:author url="http://prosto-vova.livejournal.com/">prosto_vova</yablogs:author>
+      <title>Чем Москва лучше Киева?</title>
+      <pubDate>Fri, 01 May 2015 09:57:12 GMT</pubDate>
+      <guid>http://prosto-vova.livejournal.com/2880810.html</guid>
+      <link>http://prosto-vova.livejournal.com/2880810.html</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fprosto-vova.livejournal.com%2F2880810.html&amp;ft=comments</wfw:commentRss>
+      <yablogs:comments>205</yablogs:comments>
+      <yablogs:journal url="http://prosto-vova.livejournal.com/">prosto_vova</yablogs:journal>
+      <description>Ни один &lt;b&gt;паркомат&lt;/b&gt; &lt;b&gt;не&lt;/b&gt; &lt;b&gt;работает&lt;/b&gt; в принципе. Мечтаю, что мощный накачанный киевский мэр когда-то примет закон об эвакуации к черту на куличики и за бешеные деньги все...</description>
+    </item>
+  </channel>
+</rss>
+

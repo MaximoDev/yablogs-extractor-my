@@ -1,0 +1,2 @@
+myxml=/hdp_tmp/hbase/myxml.xml
+applicationContext=file:///hdp_tmp/hbase/application-context.xml

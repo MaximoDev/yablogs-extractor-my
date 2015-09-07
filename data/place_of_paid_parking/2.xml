@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:yablogs="urn:yandex-blogs" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <link>//blogs.yandex.ru/search.xml?text=%28%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%7C+%D1%83%D0%BB+%7C+%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA+%7C++%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%7C+%D0%BF%D1%80+%7C+%D1%82%D1%83%D0%BF%D0%B8%D0%BA+%7C+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%7C+%D0%B0%D0%BB+%7C+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%7C+%D0%BF%D0%BB+%7C+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80+%7C+%D0%B1%D1%80+%7C+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%7C+%D0%BD%D0%B0%D0%B1+%7C+%D1%88%D0%BE%D1%81%D1%81%D0%B5+%7C+%D1%88+%7C+%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BA%29+%26+%28%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%7C+%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC+%7C+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%29+%26+%28%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%7C+%D0%B7%D0%B0%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%B7%D0%B0%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%7C+%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%29+%7E%28%22%D0%B1%D0%B5%D0%B7+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%22+%7C+%22%D0%BD%D0%B5%D1%82+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%22+%7C+%22%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC+%D0%BD%D0%B5%D1%82%22%29&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+    <title>(улица | ул | переулок |  проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток) &amp; (невозможно | облом | проблема) &amp; (парковаться | парковать | запарковаться | запарковать | припарковаться | припарковать) ~("без проблем" | "нет проблем" | "проблем нет") за период с 01.04.2015 по .. — Яндекс.Поиск по блогам</title>
+    <image>
+      <url>http://img.yandex.net/i/logo100x43.png</url>
+      <title>Поиск Яндекса по блогам</title>
+      <link>//blogs.yandex.ru/search.xml?text=%28%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%7C+%D1%83%D0%BB+%7C+%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA+%7C++%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%7C+%D0%BF%D1%80+%7C+%D1%82%D1%83%D0%BF%D0%B8%D0%BA+%7C+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%7C+%D0%B0%D0%BB+%7C+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%7C+%D0%BF%D0%BB+%7C+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80+%7C+%D0%B1%D1%80+%7C+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%7C+%D0%BD%D0%B0%D0%B1+%7C+%D1%88%D0%BE%D1%81%D1%81%D0%B5+%7C+%D1%88+%7C+%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BA%29+%26+%28%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%7C+%D0%BE%D0%B1%D0%BB%D0%BE%D0%BC+%7C+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%29+%26+%28%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%7C+%D0%B7%D0%B0%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%B7%D0%B0%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%7C+%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%7C+%D0%BF%D1%80%D0%B8%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%29+%7E%28%22%D0%B1%D0%B5%D0%B7+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%22+%7C+%22%D0%BD%D0%B5%D1%82+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%22+%7C+%22%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC+%D0%BD%D0%B5%D1%82%22%29&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+      <width>100</width>
+      <height>43</height>
+    </image>
+    <ttl>60</ttl>
+    <generator>blogs.yandex.ru</generator>
+    <webMaster>support@blogs.yandex.ru</webMaster>
+    <copyright>noindex</copyright>
+    <description>Результаты поиска Яндекса по блогам и форумам по запросу: «(улица | ул | переулок |  проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток) &amp; (невозможно | облом | проблема) &amp; (парковаться | парковать | запарковаться | запарковать | припарковаться | припарковать) ~("без проблем" | "нет проблем" | "проблем нет")» за период с 01.04.2015 по ..</description>
+    <yablogs:count>6</yablogs:count>
+    <item>
+      <author>http://j-j-j.livejournal.com/</author>
+      <yablogs:author url="http://j-j-j.livejournal.com/">j_j_j</yablogs:author>
+      <title>Италия 6: день 13, часть 3 - озеро Каваццо (буквы и немного фоток)</title>
+      <pubDate>Fri, 14 Aug 2015 12:17:06 GMT</pubDate>
+      <guid>http://j-j-j.livejournal.com/333818.html</guid>
+      <link>http://j-j-j.livejournal.com/333818.html</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fj-j-j.livejournal.com%2F333818.html&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://j-j-j.livejournal.com/">j_j_j</yablogs:journal>
+      <description>А все почему: когда мы вернулись к &lt;b&gt;припаркованной&lt;/b&gt; на центральной &lt;b&gt;площади&lt;/b&gt; Алессо машинке, она тупо не завелась, страшными картинками сигналя о &lt;b&gt;проблемах&lt;/b&gt; коробки.</description>
+    </item>
+    <item>
+      <author>http://vk.com/id239449780</author>
+      <yablogs:author url="http://vk.com/id239449780">vk.com/id239449780</yablogs:author>
+      <title>...невозможно сфотографировать из-за припаркованных вокруг...</title>
+      <pubDate>Thu, 06 Aug 2015 09:02:53 GMT</pubDate>
+      <guid>http://vk.com/wall239449780_384</guid>
+      <link>http://vk.com/wall239449780_384</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fvk.com%2Fwall239449780_384&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://vk.com/id239449780">vk.com/id239449780</yablogs:journal>
+      <description>...прогулка с любованием &lt;b&gt;улицами&lt;/b&gt; - мелкими пакостями от бомбежек голубей до обрызгивания из</description>
+    </item>
+    <item>
+      <author>http://papa-tarakana.livejournal.com/</author>
+      <yablogs:author url="http://papa-tarakana.livejournal.com/">papa_tarakana</yablogs:author>
+      <title>...электората выбирает парковаться на газонах, срать на улицах...</title>
+      <pubDate>Fri, 10 Jul 2015 20:54:35 GMT</pubDate>
+      <guid>http://tersan.livejournal.com/262752.html?thread=9835616</guid>
+      <link>http://tersan.livejournal.com/262752.html?thread=9835616</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Ftersan.livejournal.com%2F262752.html%3Fthread%3D9835616&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://tersan.livejournal.com/">tersan</yablogs:journal>
+      <yablogs:is-comment/>
+      <description>&lt;b&gt;Проблема&lt;/b&gt; в том, что 90% процентов электората выбирает &lt;b&gt;парковаться&lt;/b&gt; на газонах, срать на &lt;b&gt;улицах&lt;/b&gt; и поджигать кнопки в лифтах.</description>
+    </item>
+    <item>
+      <author>http://leka-2d.livejournal.com/</author>
+      <yablogs:author url="http://leka-2d.livejournal.com/">leka_2d</yablogs:author>
+      <title>От Новоспасского моста до ЗИЛа</title>
+      <pubDate>Sat, 06 Jun 2015 15:23:12 GMT</pubDate>
+      <guid>http://byk.livejournal.com/142757.html?thread=568229</guid>
+      <link>http://byk.livejournal.com/142757.html?thread=568229</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fbyk.livejournal.com%2F142757.html%3Fthread%3D568229&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://byk.livejournal.com/">byk</yablogs:journal>
+      <yablogs:is-comment/>
+      <description>...(но к ней уже &lt;b&gt;невозможно&lt;/b&gt; было перебраться через сплошные ряды &lt;b&gt;припаркованных&lt;/b&gt; машин на Шлюзовой &lt;b&gt;набережной&lt;/b&gt;, поворачивала и катила обратно до Нагатинской...</description>
+    </item>
+    <item>
+      <author>http://solins.livejournal.com/</author>
+      <yablogs:author url="http://solins.livejournal.com/">solins</yablogs:author>
+      <title>Экспресс-заход в нью-йорк. Каждый раз перед поездкой...</title>
+      <pubDate>Sun, 03 May 2015 21:18:43 GMT</pubDate>
+      <guid>http://solins.livejournal.com/1422402.html</guid>
+      <link>http://solins.livejournal.com/1422402.html</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fsolins.livejournal.com%2F1422402.html&amp;ft=comments</wfw:commentRss>
+      <yablogs:comments>32</yablogs:comments>
+      <yablogs:journal url="http://solins.livejournal.com/">solins</yablogs:journal>
+      <description>И для водителя – &lt;b&gt;невозможно&lt;/b&gt;, просто негде &lt;b&gt;парковаться&lt;/b&gt; и дорогие парковки, пробки, сложности односторонних &lt;b&gt;улиц&lt;/b&gt; и объездов. Чтобы пользоваться такси – это аналогично создает...</description>
+    </item>
+    <item>
+      <author>http://irussyab.livejournal.com/</author>
+      <yablogs:author url="http://irussyab.livejournal.com/">irussyab</yablogs:author>
+      <title>Пурке унадроза-робота-сикопота...</title>
+      <pubDate>Wed, 08 Apr 2015 19:13:02 GMT</pubDate>
+      <guid>http://irussyab.livejournal.com/167778.html</guid>
+      <link>http://irussyab.livejournal.com/167778.html</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Firussyab.livejournal.com%2F167778.html&amp;ft=comments</wfw:commentRss>
+      <yablogs:comments>24</yablogs:comments>
+      <yablogs:journal url="http://irussyab.livejournal.com/">irussyab</yablogs:journal>
+      <description>На &lt;b&gt;улицу&lt;/b&gt; выхожу - всё, началось.. то мне ветер дует, то кто-то рядом &lt;b&gt;припарковался&lt;/b&gt; как урод, то на дорогах дураки, то дураки на дорогах, то кофе невкусный...</description>
+    </item>
+  </channel>
+</rss>
+

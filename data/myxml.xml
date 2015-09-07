@@ -1,0 +1,448 @@
+<?xml version="1.0" ?>
+<maincategory>
+	<catgorylist>
+		<category>
+			<namecategory>evacuation</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						незаконно and эвакуировать and мой and (машина | автомобиль | авто | автомашина | лошадка | автоведро)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						(мой | мне) and (увозить | утащить | забрать | упереть | спереть) and (эвакуатор | "зеленый крокодил") and незаконно
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						(увозить | утащить | забрать | упереть | спереть) and (эвакуатор | "зеленый крокодил") andand ((легальное /2 место) | (оплаченная /2 парковка))
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						((увозить | утащить | забрать | упереть | спереть) /10 ((легальное /2 место) | (оплаченная /2 парковка))
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>5</namerquest>
+					<urlrequest>
+						незаконно and ("штраф стоянка" | штрафстоянка) and мой and (машина | автомобиль | авто | лошадка | автоведро)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>6</namerquest>
+					<urlrequest>
+						(забирать | забрать) and штрафстоянка and неудобно
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>7</namerquest>
+					<urlrequest>
+						("штраф стоянка" | штрафстоянка) and (далеко | неудобно) and (располагаться | располагать) -дальше
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>8</namerquest>
+					<urlrequest>
+						("штраф стоянка" | штрафстоянка) and (далеко | неудобно) -дальше
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>9</namerquest>
+					<urlrequest>
+						("оплатить парковку" | "парковку оплатить" | "заплатить за парковку" | "за парковку заплатить") and эвакуировать
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>10</namerquest>
+					<urlrequest>
+						("штраф стоянка" | штрафстоянка | "возврат эвакуированной" | "возврат эвакуированного" | "возвращение эвакуированной" | "возвращение эвакуированного") and (приключение | квест)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>11</namerquest>
+					<urlrequest>
+						мой and (машина | автомобиль | авто | лошадка | автоведро) and (эвакуатор | эвакуаторщик | эвакуация | "зеленый крокодил") and (царапать | поцарапать | повредить | вредить) -царапающий
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>12</namerquest>
+					<urlrequest>
+						(эвакуатор | "зеленый крокодил") and (госномер | "гос номер") and нарушать
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>13</namerquest>
+					<urlrequest>
+						(эвакуатор | эвакуаторщик | "зеленый крокодил") andand (("не убедился" | "не убедившись" | "отмахнуться") and нарушать)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>14</namerquest>
+					<urlrequest>
+						(эвакуаторщик | "московский паркинг" | цодд) andand сговор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>15</namerquest>
+					<urlrequest>
+						(эвакуатор | эвакуаторщик | эвакуация | "зеленый крокодил" | "московский паркинг" | "парковки Москвы" | "цодд") and (свинство | скотство | гадство | нелюди | сволочь | гад | мудак | дебил | зло | беспредел | вымогатели | вымогать | лютовать)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+		<category>
+			<namecategory>place_of_paid_parking</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						(("нужна" | "должна быть" | "надо" | пускай) and (сделать | организовать | ввести | вводить)) and "платная парковка" and (улица | ул | переулок |  проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						(улица | ул | переулок |  проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток) and (невозможно | облом | проблема) and (парковаться | парковать | запарковаться | запарковать | припарковаться | припарковать) ~("без проблем" | "нет проблем" | "проблем нет")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						"не хватает" and парковочный and место
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						(парковка | паркинг) and отменить and ("улица" | "переулок" | "тупик" | "аллея" | "перекресток")
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+
+		<category>
+			<namecategory>parkomats_and_paying</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						("не работает" | сломать) and паркомат
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						("не смог" | "не смогла" | "не получилось" | "не удалось") and (оплатить | "заплатить за") and парковка
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						парковка andand ("не пришло" | "не дошло" | "не получить" | "долго ждать" | "долго не доходит") and подтверждающее and смс
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						(сбой | "не пришло" | "не дошло" | "не получить" | "долго ждать" | "долго не доходит") and (уведомление | смс) and оплата and парковка
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>5</namerquest>
+					<urlrequest>
+						парковка and "оплата не прошла"
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>6</namerquest>
+					<urlrequest>
+						(оплатить /2 парковка) /20 штраф ~~ ("не оплатил" | "не оплачен" | "не оплаченный" | "неоплаченный")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>7</namerquest>
+					<urlrequest>
+						(оплатить /2 парковка) andand "оплаты нет"
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>8</namerquest>
+					<urlrequest>
+						паркомат and (собянин | ликсутов | бирюков | юрьев | поляков)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+		<category>
+			<namecategory>resident_permits</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						(абонемент | разрешение) and резидентский
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+
+		<category>
+			<namecategory>places_of_allowing_and_prohibiting_car_stopping_and_parking</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						знак and ("запрещение стоянки" | "запрет стоянки" | "стоянка запрещена" | "остановка запрещена" | "запрещение остановки" | "запрет остановки" | "запрет парковки" | "парковка запрещена" | "парковка по нечетным дням запрещена" | "парковка по четным дням запрещена" | "стоянка по нечетным дням запрещена" | "стоянка по четным дням запрещена" | "3.27" | "3.28") and ("не стоять" | "не располагаться" | "не находиться" | "не было")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						("запрещение стоянки" | "запрет стоянки" | "стоянка запрещена" | "остановка запрещена" | "запрещение остановки" | "запрет остановки" | "запрет парковки" | "парковка запрещена" | "парковка по нечетным дням запрещена" | "парковка по четным дням запрещена" | "стоянка по нечетным дням запрещена" | "стоянка по четным дням запрещена") and ("не нужен" | убрать)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						парковка and (понаставить | повтыкать | повесить | висеть | расчехлить | утыкать | увешать | увесить) and кресты
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						(понаставить | повтыкать | повесить | висеть | расчехлить | утыкать | увешать | увесить) /10 знак /5 (крест | "запрещение стоянки" | "запрет стоянки" | "запрета стоянки" | "стоянка запрещена" | "остановка запрещена" | "запрещение остановки" | "запрет остановки" | "запрета остановки" | "3.27" | "3.28")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>5</namerquest>
+					<urlrequest>
+						(надо | нужно | пускай | хотеть | "надо бы" | "было бы") /20 (поставить | установить | ставить | ввести | вводить) /10 знак /5 (крест | "запрещение стоянки" | "запрет стоянки" | "стоянка запрещена" | "остановка запрещена" | "запрещение остановки" | "запрет остановки" | "3.27" | "3.28") -шлагбаум
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>6</namerquest>
+					<urlrequest>
+						(поставить | установить | ставить) /20 антипарковочные /5 (столбики | столбы)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>7</namerquest>
+					<urlrequest>
+						мешать /20 парковка /20 (знак | запрещать)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>8</namerquest>
+					<urlrequest>
+						("запрещение стоянки" | "запрет стоянки" | "стоянка запрещена" | "остановка запрещена" | "запрещение остановки" | "запрет остановки" | "запрет парковки" | "парковка запрещена" | "парковка по нечетным дням запрещена" | "парковка по четным дням запрещена" |  "стоянка по нечетным дням запрещена" | "стоянка по четным дням запрещена") andand ("мест * нет" | "нет * мест)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>9</namerquest>
+					<urlrequest>
+						запрет парковки цодд
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>10</namerquest>
+					<urlrequest>
+						(парковка | паркинг | парковочный) /10 ("зеленая зона" | "зеленой зоне" | "зеленой зоны" | газон) /30 (улица | ул | переулок | проспект | пр | тупик | аллея | ал | бульвар | бр | набережная | наб | шоссе | ш)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>11</namerquest>
+					<urlrequest>
+						парковку /5 захватили /5 лица
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+
+		<category>
+			<namecategory>contradictions_of_signs</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						(улица | ул | переулок |  проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток) /20 знак and разметка and противоречить
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						знак and "друг другу" and противоречить andand (эвакуатор | "зеленый крокодил")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						(неправильный | неправильно) /20 знак /20  (авто | машина | автомобиль | водитель | дорога)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						Москва /20 знак and "друг другу" and противоречить
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>5</namerquest>
+					<urlrequest>
+						неправильно and (установить | стоять) and дорожный and знак
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+		<category>
+			<namecategory>one_way_traffic</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						(требоваться | "пора устроить" | предлагать) /15 односторонний /5 движение
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						(надо | нужно | пускай) and (вернуть | возвратить | сделать) and двусторонний and движение
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						(двусторонний | односторонний) /20 (перепробег | крюк)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+
+		<category>
+			<namecategory>traffic_lights_repair</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						("не работает" | "не работал" | сломать | сломаться | сломан | сломанный | сдохнуть | чинить | починить) /5 светофор ~ машина ~ автомобиль ~ авто ~ автомобилист -подслушано
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						(("не работает светофор") | ("светофор не работает") | ("светофор сломался") | ("сломался светофор") | ("светофор сдох") | ("сдох светофор") | ("не работает * светофор") | ("светофор * не работает") | ("светофор * сломался") | ("сломался * светофор") | ("светофор * сдох") | ("сдох * светофор") ) -подслушано
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						(("не работать" | сломать | починить | чинить) /5 светофор) and (улица | ул | переулок | проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток | пересечение)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+		<category>
+			<namecategory>traffic_lights_tuning</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						дебильный and светофор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						светофор /15 (нужно | придется | должны | надо) /5 (настроить | перенастроить | отрегулировать)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>3</namerquest>
+					<urlrequest>
+						светофор and (настройка | настроить | перенастроить | отрегулировать) and (улица | ул | переулок | проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток)
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>4</namerquest>
+					<urlrequest>
+						перенастроили and светофор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>5</namerquest>
+					<urlrequest>
+						бесит and светофор and стоять
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>6</namerquest>
+					<urlrequest>
+						(изменение | смена) /5 схемы /5 работы and светофор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>7</namerquest>
+					<urlrequest>
+						(мудак | дебил | уволить) /5 настроить /5 светофор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>8</namerquest>
+					<urlrequest>
+						светофор /15 (нужна | поставить | надо | необходим) /5 стрелка
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>9</namerquest>
+					<urlrequest>
+						(волгоградский | волгоградка | текстильщики | мичуринский | мичура | нахимовский | севастопольский | боровское | нагатинская | андропова | ломоносовский | вернадского | вернадка | новинки | энтузиастов | "проспект мира" | тверская) and светофор
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>10</namerquest>
+					<urlrequest>
+						светофор /10 (неудобно | "не удобно")
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>11</namerquest>
+					<urlrequest>
+						светофор /3 ((очень | крайне) /5 долгий)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+		<category>
+			<namecategory>road_closure</namecategory>
+			<requestslist>
+				<requests>
+					<namerquest>1</namerquest>
+					<urlrequest>
+						("регулярно перекрывают дорогу" | "дорогу перекрывают регулярно" | "регулярно дорогу перекрывают" | "регулярно * перекрывают дорогу" | "регулярно * дорогу перекрывают" | "часто перекрывают дорогу" | "дорогу перекрывают часто" | "часто дорогу перекрывают" | "часто * перекрывают дорогу" | "часто * дорогу перекрывают" | "постоянно перекрывают дорогу" | "дорогу перекрывают постоянно" | "постоянно дорогу перекрывают" | "постоянно * перекрывают дорогу" | "постоянно * дорогу перекрывают") -люди
+					</urlrequest>
+				</requests>
+				<requests>
+					<namerquest>2</namerquest>
+					<urlrequest>
+						("регулярно перекрывают дорогу" | "дорогу перекрывают регулярно" | "регулярно дорогу перекрывают" | "регулярно * перекрывают дорогу" | "регулярно * дорогу перекрывают" | "часто перекрывают дорогу" | "дорогу перекрывают часто" | "часто дорогу перекрывают" | "часто * перекрывают дорогу" | "часто * дорогу перекрывают" | "постоянно перекрывают дорогу" | "дорогу перекрывают постоянно" | "постоянно дорогу перекрывают" | "постоянно * перекрывают дорогу" | "постоянно * дорогу перекрывают") and (улица | ул | переулок | проспект | пр | тупик | аллея | ал | площадь | пл | бульвар | бр | набережная | наб | шоссе | ш | перекресток)
+					</urlrequest>
+				</requests>
+			</requestslist>
+		</category>
+
+
+	</catgorylist>
+</maincategory>

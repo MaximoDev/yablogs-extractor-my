@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="yablogs-extractor" class="xdsoft.YablogsExctractor">
+		<property name="path" value="data/" />
+		<property name="geo" value="Москва" />
+		<property name="fromDay" value="01" />
+		<property name="fromMonth" value="04" />
+		<property name="fromYear" value="2015" />
+		<property name="searchUrl" value="http://blogs.yandex.ru/search.rss?text=" />
+		<property name="sourceFileXml" value="myxml.xml" />
+		<property name="translate">
+			<map>
+				<entry key="Противоречия в знаках" value="contradictions_of_signs" />
+				<entry key="Эвакуация" value="evacuation" />
+				<entry key="Одностороннее движение" value="one_way_traffic" />
+				<entry key="Оплата парковки" value="parkomats_and_paying" />
+				<entry key="Платная парковка" value="place_of_paid_parking" />
+				<entry key="Запрет парковки"
+					value="places_of_allowing_and_prohibiting_car_stopping_and_parking" />
+				<entry key="Разрешения на парковку" value="resident_permits" />
+				<entry key="Ремонт светофоров" value="traffic_lights_repair" />
+				<entry key="Настройка светофоров" value="traffic_lights_tuning" />
+				<entry key="Перекрытие дорог" value="road_closure" />
+			</map>
+		</property>
+	</bean>
+</beans>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:yablogs="urn:yandex-blogs" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <link>//blogs.yandex.ru/search.xml?text=%28%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C+%2F2+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0%29+%26%26+%22%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B+%D0%BD%D0%B5%D1%82%22&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+    <title>(оплатить /2 парковка) &amp;&amp; "оплаты нет" за период с 01.04.2015 по .. — Яндекс.Поиск по блогам</title>
+    <image>
+      <url>http://img.yandex.net/i/logo100x43.png</url>
+      <title>Поиск Яндекса по блогам</title>
+      <link>//blogs.yandex.ru/search.xml?text=%28%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C+%2F2+%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0%29+%26%26+%22%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B+%D0%BD%D0%B5%D1%82%22&amp;geo=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;from_day=01&amp;from_month=04&amp;from_year=2015</link>
+      <width>100</width>
+      <height>43</height>
+    </image>
+    <ttl>60</ttl>
+    <generator>blogs.yandex.ru</generator>
+    <webMaster>support@blogs.yandex.ru</webMaster>
+    <copyright>noindex</copyright>
+    <description>Результаты поиска Яндекса по блогам и форумам по запросу: «(оплатить /2 парковка) &amp;&amp; "оплаты нет"» за период с 01.04.2015 по ..</description>
+    <yablogs:count>1</yablogs:count>
+    <item>
+      <author>http://vk.com/effeff</author>
+      <yablogs:author url="http://vk.com/effeff">effeff</yablogs:author>
+      <title>...я уже оплатил парковку. Пришел ответ. Вашей оплаты нет....</title>
+      <pubDate>Fri, 14 Aug 2015 20:37:35 GMT</pubDate>
+      <guid>http://vk.com/wall19901597_17538</guid>
+      <link>http://vk.com/wall19901597_17538</link>
+      <wfw:commentRss>//blogs.yandex.ru/search.rss?post=http%3A%2F%2Fvk.com%2Fwall19901597_17538&amp;ft=comments</wfw:commentRss>
+      <yablogs:journal url="http://vk.com/effeff">effeff</yablogs:journal>
+      <description>Я подал 2 заявы в АМПП о том, что штрафы не законны, т.к. в этом время я уже &lt;b&gt;оплатил&lt;/b&gt; &lt;b&gt;парковку&lt;/b&gt;.</description>
+    </item>
+  </channel>
+</rss>
+
