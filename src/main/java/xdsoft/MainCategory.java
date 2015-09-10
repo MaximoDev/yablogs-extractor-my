@@ -5,18 +5,18 @@ import java.util.List;
 
 // тупо pojo
 public class MainCategory {
-	private List<Categories> catgorylist =new ArrayList<Categories>();
+	private List<Categories> categoryList =new ArrayList<Categories>();
 
-	public List<Categories> getCatgorylist() {
-		return catgorylist;
+	public List<Categories> getCatgoryList() {
+		return categoryList;
 	}
 
-	public void setCatgorylist(List<Categories> catgorylist) {
-		this.catgorylist = catgorylist;
+	public void setCatgoryList(List<Categories> categoryList) {
+		this.categoryList = categoryList;
 	}
 
-	public void setCatgorylistel(Categories catgorylist) {
-		this.catgorylist.add(catgorylist);
+	public void setCatgorylistel(Categories categoryList) {
+		this.categoryList.add(categoryList);
 	}
 
 }

@@ -58,7 +58,7 @@ public class YablogsExctractor {
 
 		MainCategory mainCategoryList = (MainCategory) xstream.fromXML(fis);
 
-		for (Categories setcat : mainCategoryList.getCatgorylist()) {
+		for (Categories setcat : mainCategoryList.getCatgoryList()) {
 
 			for (Requests setreq : setcat.getRequestslist()) {
 
